@@ -10,6 +10,6 @@ I`m Mukhammadjon Kayumov  a Junior Python Developer and Data Scientist. Future M
 
 *People don't care about what you say, they care about what you build.*
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=blue)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mukhammadjon571&&show_icons=true&title_color=AED6F1 &icon_color=bb2acf&text_color=AED6F1&bg_color=151515">
