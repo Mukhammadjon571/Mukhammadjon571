@@ -1,5 +1,5 @@
 ### Hi i`m Mukhammadjon.👋
-I`m Mukhammadjon Kayumov  a Junior Python Developer and Data Scientist. Future Machine Learning Engineer.
+I`m Mukhammadjon Kayumov  a Junior Software Engineer. Future Machine Learning Engineer.
 
   - 🔭 I’m currently working on Bytech.
   - 🌱 I’m currently learning Node Js, React Js,MongoDB.
