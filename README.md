@@ -2,8 +2,8 @@
 I`m Mukhammadjon Kayumov  a Junior Python Developer and Data Scientist. Future Machine Learning Engineer.
 
   - 🔭 I’m currently working on Bytech.
-  - 🌱 I’m currently learning Data Science,ML.
-  - 💬 Ask me about Python,Django,C++ and Data Analytics.
+  - 🌱 I’m currently learning Node Js, React Js,MongoDB.
+  - 💬 Ask me about Python,Django, and Javascript, Node Js.
   - 📫 How to reach me: [Telegram](https://t.me/mr_genius001),[Linkedin](https://www.linkedin.com/in/mukhammadjon-kayumov-a59039202)
   - 😄 Pronouns: GeniuS.
   - ⚡ Fun fact: I will change the world.
