@@ -2,7 +2,7 @@
 I`m Mukhammadjon Kayumov  a Junior Software Engineer. Future Machine Learning Engineer.
 
   - 🔭 I’m currently working on Bytech.
-  - 🌱 I’m currently learning Node Js, React Js,MongoDB.
+  - 🌱 I’m currently learning MERN.
   - 💬 Ask me about Python,Django, and Javascript, Node Js.
   - 📫 How to reach me: [Telegram](https://t.me/mr_genius001),[Linkedin](https://www.linkedin.com/in/mukhammadjon-kayumov-a59039202)
   - 😄 Pronouns: GeniuS.
