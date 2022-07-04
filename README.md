@@ -13,10 +13,6 @@ I`m Mukhammadjon Kayumov  a Junior Software Engineer. Future Machine Learning En
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=blue)
  
  
-<details>
-  <summary>
-   GitHub Stats
-  </summary>
   <br/>
   <div display="flex">
   <p>
@@ -24,6 +20,5 @@ I`m Mukhammadjon Kayumov  a Junior Software Engineer. Future Machine Learning En
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhammadjon571&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
   </p>
 </div>
-</details>
 
 
