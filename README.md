@@ -4,7 +4,7 @@ I`m Mukhammadjon Kayumov  a Software Engineer. Future Software Architect.
   - 🔭 I’m currently working on Molly`s Marketplace.
   - 🌱 I’m currently learning MERN.
   - 💬 Ask me about Javascript, Node Js (NestJS/ExpressJS).
-  - 📫 How to reach me: [Telegram](https://t.me/mr_genius001),[Linkedin](https://www.linkedin.com/in/mukhammadjon-kayumov-a59039202)
+  - 📫 How to reach me: [Telegram](https://t.me/mukhammadjon571),[Linkedin](https://www.linkedin.com/in/mukhammadjon-kayumov-a59039202)
   - 😄 Pronouns: GeniuS.
   - ⚡ Fun fact: I will change the world.
 
