@@ -1,7 +1,7 @@
 ### Hi i`m Mukhammadjon.👋
 I`m Mukhammadjon Kayumov  a Software Engineer. Future Software Architect.
 
-  - 🔭 I’m currently working at Optochka.
+  - 🔭 I’m currently working at Optochka INC & QClay.
   - 🌱 I’m currently learning MERN.
   - 💬 Ask me about Javascript, Node Js (NestJS/ExpressJS).
   - 📫 How to reach me: [Telegram](https://t.me/mukhammadjon571),[Linkedin](https://www.linkedin.com/in/mukhammadjon-kayumov-a59039202)
