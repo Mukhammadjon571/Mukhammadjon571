@@ -1,8 +1,8 @@
 ### Hi i`m Mukhammadjon.👋
-I`m Mukhammadjon Kayumov  a Software Engineer. Future Software Architect.
+I`m Mukhammadjon Kayumov  a Software Engineer.
 
   - 🔭 I’m currently working at QClay Design.
-  - 🌱 I’m currently learning MERN.
+  - 🌱 I’m currently learning Blockchain Development.
   - 💬 Ask me about JavaScript/TypeScript.
   - 📫 How to reach me: [Telegram](https://t.me/mukhammadjon571),[Linkedin](https://www.linkedin.com/in/mukhammadjon-kayumov-a59039202)
   - ⚡ Fun fact: I will change the world.
